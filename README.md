@@ -1,5 +1,5 @@
 # Commands
-To start project in IntelliJ:
+### To start project in IntelliJ:
 
     Under 'File'<'Project Structure...':
     1. Make module
