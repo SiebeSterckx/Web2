@@ -1,11 +1,11 @@
 # To start project in IntelliJ:
 
-Under 'File'<'Project Structure...' (step 1 & 2):
+Under 'File'<'Project Structure...':
 1. Make module
 2. Make artifact: 'Web Application: Exploded' + select the module
-
+---
 3. Build the artifact
-
+---
 4. Setup Tomcat Server Local:
 
    Under 'Server' tab:
@@ -20,6 +20,6 @@ Under 'File'<'Project Structure...' (step 1 & 2):
    
    Under 'Deployment' tab:
    - Add the artifact
-
+---
 5. Run the project/Tomcat server
 
