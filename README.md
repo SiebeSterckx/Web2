@@ -18,6 +18,7 @@ Under 'File'<'Project Structure...' (step 1 & 2):
    - JMX port: 1099
    - Before launch: Build + Build artifact
    - Click 'Apply' & 'OK'
+   
    Under 'Deployment' tab:
    - Add the artifact
 
